@@ -1,6 +1,6 @@
-project: rnshah9/mayhem-oppai-ng
+project: oppai-ng
 target: oppai
 
 cmds:
-  - cmd: /repo/oppai @@
+  - cmd: /repo/oppai /test.osu
     filepath: /test.osu
