@@ -2,4 +2,4 @@ project: oppai-ng
 target: oppai
 
 cmds:
-  - cmd: /repo/oppai @@
+  - cmd: /oppai @@
