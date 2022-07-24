@@ -2,5 +2,4 @@ project: oppai-ng
 target: oppai
 
 cmds:
-  - cmd: /repo/oppai /test.osu
-    filepath: /test.osu
+  - cmd: /repo/oppai @@
